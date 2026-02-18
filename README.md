@@ -16,7 +16,8 @@ https://sakura-hair.pages.dev/
 
 ## 技術スタック
 
-- Next.js
+- Vite
+- React
 - TypeScript
 - Tailwind CSS
 
